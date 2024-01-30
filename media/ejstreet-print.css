@@ -42,9 +42,18 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	position: relative;
+	left: 25%;
+	width: 65%;
+}
+
+th, td {
+	border: none;
+	text-align: center;
 }
 
 /* end of reset */
@@ -66,7 +75,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 60%;
+	width: 65%;
 }
 
 code {
@@ -74,22 +83,22 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #aaa;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: 0%;
 }
 
 
 ul {
 	position: relative;
 	left: 25%;
-	width: 55%;
+	width: 65%;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
