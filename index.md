@@ -15,7 +15,7 @@ DevOps Engineer
 
 ## Summary
 
-Experienced DevOps Engineer with a proven track record of driving successful transformations from legacy systems to AWS cloud environments. Over 5 years of hands-on experience, specializing in Kubernetes, Helm, Terraform, and Gitlab CI/CD. Proficient in Docker, Python, C, Go, and Bash scripting. Recognized for optimizing development processes, reducing costs, and providing robust support to enhance code quality. Adept at automating infrastructure and orchestrating LiveOps initiatives. 
+DevOps Engineer with 5 years of hands-on experience driving cloud transformations and process automation. Proven success in seamlessly migrating legacy systems to AWS, optimizing CI/CD pipelines, and implementing cutting-edge technologies for enhanced development workflows. Adept at orchestrating complex projects, reducing operational costs, and delivering innovative solutions to elevate overall efficiency.
 
 ## Technology Stack
 
@@ -63,7 +63,7 @@ __DevOps Engineer, Iwoca, UK__
 Responsible for creating and optimising CI pipelines and cloud infrastructure for a fintech startup
 
 Accomplishments:
-- Created and maintained several terraform modules and played a key role in migrating existing AWS infrastructure into infrastructure-as-code repository using terraform and terragrunt
+- Created and maintained several terraform modules and played a key role in migrating existing AWS infrastructure into infrastructure-as-code repository using terraform, terragrunt, and packer
 - Reduced AWS bill by 20% by identifying cost saving opportunities and implementing autoscaling and self-healing infrastructure that is suitable for spot deployments
 - Automated credential rotations for third-party integrations by creating a FastAPI microservice that leveraged Selenium browser automation
 - Optimised Gitlab CI pipelines to run 1 hour's worth of Python/Django tests in under 6 minutes
