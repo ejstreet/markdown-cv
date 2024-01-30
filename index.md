@@ -6,7 +6,7 @@ title: Elliott Street
 DevOps Engineer
 
 <div id="webaddress">
-<a href="elliott.j.street@gmail.com">elliott.j.street@gmail.com</a>
+<a href="mailto:elliott.j.street@gmail.com">elliott.j.street@gmail.com</a>
 | <a href="https://ejstreet.dev">Website</a>
 | <a href="https://github.com/ejstreet">GitHub</a>
 | <a href="https://www.linkedin.com/in/elliottstreet
