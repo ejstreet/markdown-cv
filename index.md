@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Elliott Street's CV
+title: Elliott Street
 ---
 # Elliott Street
 DevOps Engineer
@@ -10,14 +10,14 @@ DevOps Engineer
 | <a href="https://ejstreet.dev">Website</a>
 | <a href="https://github.com/ejstreet">GitHub</a>
 | <a href="https://www.linkedin.com/in/elliottstreet
-">LinkedIn</a>
+">Linkedin</a>
 </div>
 
 ## Summary
 
 Experienced DevOps Engineer with a proven track record of driving successful transformations from legacy systems to AWS cloud environments. Over 5 years of hands-on experience, specializing in Kubernetes, Helm, Terraform, and Gitlab CI/CD. Proficient in Docker, Python, C, Go, and Bash scripting. Recognized for optimizing development processes, reducing costs, and providing robust support to enhance code quality. Adept at automating infrastructure and orchestrating LiveOps initiatives. 
 
-### Technology Stack
+## Technology Stack
 |            |              |         |               |
 |------------|--------------|---------|--------------|
 | Kubernetes | AWS          | Linux   | Python       |
