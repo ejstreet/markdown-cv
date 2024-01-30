@@ -34,7 +34,7 @@ Consulting for a client to bring about cloud transformation and process automati
 
 Accomplishments:
 - Spearheaded the strategic transformation of intricate on-premises legacy systems, seamlessly transitioning them to an advanced AWS cloud environment
-Orchestrated LiveOps initiatives with a sharp focus on incident response, ensuring the continuous and smooth operation of critical functions
+- Orchestrated LiveOps initiatives with a sharp focus on incident response, ensuring the continuous and smooth operation of critical functions
 - Pioneered the codification of cloud infrastructure utilizing cutting-edge technologies such as Terraform and Kubernetes
 - Implemented Docker Compose to faithfully recreate the production server environment locally, allowing developers to identify and address issues before production deployment
 - Innovatively automated machine image builds, leveraging Buildroot and the Android Open Source Project (AOSP) to generate reproducible machine images from versioned Git manifests
