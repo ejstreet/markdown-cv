@@ -48,7 +48,7 @@ table {
 	border-spacing: 0;
 	position: relative;
 	left: 25%;
-	width: 65%;
+	width: 55%;
 }
 
 th, td {
@@ -75,7 +75,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 55%;
 }
 
 code {
@@ -96,7 +96,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 65%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
