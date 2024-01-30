@@ -105,8 +105,11 @@ __University of Kent, UK__
 
 BEng Electronics and Communications Engineering with a Year in Industry (Honours)
 
-
-
 ## Certifications
 
 Certified Kubernetes Administrator (CKA)
+
+## Personal Projects
+
+- Terraform provider written in Go
+- Home computer lab built around Unraid
