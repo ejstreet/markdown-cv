@@ -90,6 +90,7 @@ video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	page-break-inside: avoid;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -131,8 +132,8 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 	position: relative;
-	left: 21%;
-	width: 69%;
+	left: 18%;
+	width: 72%;
 }
 
 th,
@@ -147,7 +148,7 @@ td {
 
 body {
 	font: normal normal 400;
-	font-size: 12pt;
+	font-size: 11pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir, Verdana, sans-serif;
@@ -157,10 +158,10 @@ body {
 
 p {
 	position: relative;
-	left: 21%;
+	left: 18%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 69%;
+	width: 72%;
 }
 
 code {
@@ -180,8 +181,8 @@ p code {
 
 ul {
 	position: relative;
-	left: 21%;
-	width: 69%;
+	left: 18%;
+	width: 72%;
 	margin-bottom: 1em;
 	margin-top: -0.5em;
 }
@@ -221,7 +222,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 21%;
+	left: 18%;
 }
 
 h1+p {
@@ -233,11 +234,11 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 0.5em;
+	margin-top: 0em;
 	position: relative;
-	top: 1.2em;
+	top: 1em;
 	text-align: right;
-	width: 20%;
+	width: 16%;
 }
 
 
@@ -263,7 +264,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 21%;
+	left: 18%;
 	color: #ccc;
 	font-family: Monaco, Menlo, monospace, sans-serif;
 	font-size: 90%;
