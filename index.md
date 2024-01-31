@@ -52,9 +52,10 @@ Provided domain expertise in cloud development to Capgemini clients such as UK H
 
 Accomplishments:
 - Deployed modern cloud infrastructure for multiple tenants through the development of a common platform using reproducible terraform modules and helm charts
-- Used open-source, industry standard software to provide monitoring, logging, and alerting services to tenants in an agile work environment
+- Leveraged open-source, industry standard software to provide monitoring, logging, and alerting services to tenants in an agile work environment
 - Debugged complex, multi-server services in a high availability production environment
-- Acted as consultant to developers from other teams, aiding them in dockerising applications and configuring automated deployment pipelines
+- Acted as consultant to developers from other teams, aiding them in dockerising applications and configuring automated deployment pipelines in both Gitlab and Jenkins
+- Improved site reliability and user experience by implementing cluster validation tests
 - Mentored junior team members to help them troubleshoot issues and provide development feedback and guidance
 
 `April 2019 - October 2021`
