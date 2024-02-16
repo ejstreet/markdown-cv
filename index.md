@@ -9,8 +9,7 @@ DevOps Engineer
 <a href="mailto:elliott.j.street@gmail.com">elliott.j.street@gmail.com</a>
 | <a href="https://ejstreet.dev">Website</a>
 | <a href="https://github.com/ejstreet">GitHub</a>
-| <a href="https://www.linkedin.com/in/elliottstreet
-">Linkedin</a>
+| <a href="https://www.linkedIn.com/in/elliottstreet">Linkedin</a>
 </div>
 
 ## Summary
@@ -112,5 +111,5 @@ Certified Kubernetes Administrator (CKA)
 
 ## Personal Projects
 
-- Terraform provider written in Go
+- [Terraform provider](https://github.com/ejstreet/terraform-provider-omg-lol) written in Go
 - Home computer lab built around Unraid
