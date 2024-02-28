@@ -42,7 +42,7 @@ Accomplishments:
 `November 2022 - March 2023`
 __Career Break, Canada__
 
-Took a purposeful hiatus to explore the diverse landscapes and cultures of Canada, embarking on a working holiday across several cities. During this period, engaged in personal software projects and cultivated a broader perspective on technology and life experiences. Returned recharged and ready to leverage gained insights in the professional realm.
+During my career break, I relocated to Canada and embarked on an extended period of travel, exploring different regions and immersing myself in diverse cultures. In addition to traveling, I dedicated time to developing personal software projects, honing my skills and exploring new technologies in my field.
 
 `October 2021 - October 2022`
 __Platform Engineer, Capgemini, UK__
@@ -50,10 +50,10 @@ __Platform Engineer, Capgemini, UK__
 Provided domain expertise in cloud development to Capgemini clients such as UK HM Revenue and Customs, building out their managed Kubernetes platform
 
 Accomplishments:
-- Deployed modern cloud infrastructure for multiple tenants through the development of a common platform using reproducible terraform modules and helm charts
-- Leveraged open-source, industry standard software to provide monitoring, logging, and alerting services to tenants in an agile work environment
+- Deployed modern cloud infrastructure for multiple tenants through the development of a common platform using reproducible Terraform modules and Helm charts
+- Leveraged open-source, industry-standard software to provide monitoring, logging, and alerting services to tenants in an agile work environment
 - Debugged complex, multi-server services in a high availability production environment
-- Acted as consultant to developers from other teams, aiding them in dockerising applications and configuring automated deployment pipelines in both Gitlab and Jenkins
+- Acted as consultant to developers from other teams, aiding them in dockerising applications and configuring automated deployment pipelines in both GitLab and Jenkins
 - Improved site reliability and user experience by implementing cluster validation tests
 - Mentored junior team members to help them troubleshoot issues and provide development feedback and guidance
 
@@ -63,13 +63,13 @@ __DevOps Engineer, Iwoca, UK__
 Responsible for creating and optimising CI pipelines and cloud infrastructure for a fintech startup
 
 Accomplishments:
-- Created and maintained several terraform modules and played a key role in migrating existing AWS infrastructure into infrastructure-as-code repository using terraform, terragrunt, and packer
-- Reduced AWS bill by 20% by identifying cost saving opportunities and implementing autoscaling and self-healing infrastructure that is suitable for spot deployments
+- Created and maintained several Terraform modules and played a key role in migrating existing AWS infrastructure into infrastructure-as-code repository using Terraform, Terragrunt, and Packer
+- Reduced AWS bill by 20% by identifying cost-saving opportunities and implementing auto-scaling and self-healing infrastructure that is suitable for spot deployments
 - Automated credential rotations for third-party integrations by creating a FastAPI microservice that leveraged Selenium browser automation
-- Optimised Gitlab CI pipelines to run 1 hour's worth of Python/Django tests in under 6 minutes
-- Deployed Looker using Kubernetes and a custom Helm chart as part of a high value contract
+- Optimised GitLab CI pipelines to run 1 hour's worth of Python/Django tests in under 6 minutes
+- Deployed Looker using Kubernetes and a custom Helm chart as part of a high-value contract
 - Rolled out Envoy proxy sidecars on key services using configurable templates to add access logging, TLS, and gRPC to multiple services
-- Set up logging and alerts in Datadog and integrated them with Slack to provide early warnings of anomalous behaviour to stakeholders
+- Set up logging and alerts in Datadog and integrated them with Slack to provide early warnings of anomalous behavior to stakeholders
 
 `August 2017 - March 2019`
 __Electrical Engineer, Jaguar Land Rover, UK__
