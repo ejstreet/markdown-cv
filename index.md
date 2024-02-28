@@ -107,7 +107,8 @@ BEng Electronics and Communications Engineering with a Year in Industry (Honours
 
 ## Certifications
 
-Certified Kubernetes Administrator (CKA)
+- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9b1914ea-83e6-4dcf-b9be-53a922416637)
+- [AWS Certified Solutions Architect - Associate (SAA-C03)](https://www.credly.com/badges/d302fc4b-a214-4cf1-8f28-3a296cfa829f)
 
 ## Personal Projects
 
