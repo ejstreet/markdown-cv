@@ -9,7 +9,7 @@ DevOps Engineer
 <a href="mailto:elliott.j.street@gmail.com">elliott.j.street@gmail.com</a>
 | <a href="https://ejstreet.dev">Website</a>
 | <a href="https://github.com/ejstreet">GitHub</a>
-| <a href="https://www.linkedIn.com/in/elliottstreet">Linkedin</a>
+| <a href="https://www.linkedin.com/in/elliottstreet">LinkedIn</a>
 </div>
 
 ## Summary
@@ -22,7 +22,7 @@ DevOps Engineer with 5 years of hands-on experience driving cloud transformation
 |------------|--------------|---------|--------------|
 | Helm       | Gitlab CI/CD | Windows | Go  (Golang) |
 | Terraform  | Prometheus   | Git     | C            |
-| Docker     | Grafana      | Github  | Bash         |
+| Docker     | Grafana      | Nginx   | Bash         |
 
 ## Professional Experience
 
