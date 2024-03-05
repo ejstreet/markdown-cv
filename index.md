@@ -2,6 +2,7 @@
 layout: cv
 title: Elliott Street
 ---
+<button onclick="window.print()">Save or Print</button>
 # Elliott Street
 DevOps Engineer
 

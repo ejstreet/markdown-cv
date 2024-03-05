@@ -144,7 +144,9 @@ td {
 
 /* end of reset */
 
-
+button {
+	display: none
+}
 
 body {
 	font: normal normal 400;
@@ -197,9 +199,9 @@ ul {
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	text-indent: -1.25em;
+	text-indent: -1em;
 	list-style-position: inside
-	/*color: #777;*/
+		/*color: #777;*/
 }
 
 li ul {
