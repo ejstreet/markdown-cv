@@ -4,7 +4,7 @@ title: Elliott Street
 ---
 <button onclick="window.print()">Save or Print</button>
 # Elliott Street
-DevOps Engineer
+DevOps Engineer | Canada
 
 <div id="webaddress">
 <a href="mailto:elliott.j.street@gmail.com">elliott.j.street@gmail.com</a>
