@@ -14,14 +14,14 @@ DevOps Engineer
 
 ## Summary
 
-DevOps Engineer with 5 years of hands-on experience driving cloud transformations and process automation. Proven success in seamlessly migrating legacy systems to AWS, optimizing CI/CD pipelines, and implementing cutting-edge technologies for enhanced development workflows. Adept at orchestrating complex projects, reducing operational costs, and delivering innovative solutions to elevate overall efficiency.
+DevOps Engineer with 5 years of hands-on experience and a proven track record of designing, implementing, and maintaining scalable and fault-tolerant cloud infrastructure. Skilled in leveraging technologies like Terraform, AWS, and Kubernetes to optimize performance, scalability, and reliability. Adept at collaborating with cross-functional teams, troubleshooting complex issues, and implementing automated solutions to enhance overall efficiency.
 
 ## Technology Stack
 
 | Kubernetes | AWS          | Linux   | Python       |
 |------------|--------------|---------|--------------|
-| Helm       | Gitlab CI/CD | Windows | Go  (Golang) |
-| Terraform  | Prometheus   | Git     | C            |
+| Helm       | GitLab CI/CD | Windows | Go  (Golang) |
+| Terraform  | Prometheus   | Git     | Ruby         |
 | Docker     | Grafana      | Nginx   | Bash         |
 
 ## Professional Experience
@@ -33,11 +33,10 @@ Consulting for a client to bring about cloud transformation and process automati
 
 Accomplishments:
 - Spearheaded the strategic transformation of intricate on-premises legacy systems, seamlessly transitioning them to an advanced AWS cloud environment
-- Orchestrated LiveOps initiatives with a sharp focus on incident response, ensuring the continuous and smooth operation of critical functions
 - Pioneered the codification of cloud infrastructure utilizing cutting-edge technologies such as Terraform and Kubernetes
 - Implemented Docker Compose to faithfully recreate the production server environment locally, allowing developers to identify and address issues before production deployment
-- Innovatively automated machine image builds, leveraging Buildroot and the Android Open Source Project (AOSP) to generate reproducible machine images from versioned Git manifests
-- Elevated development processes by providing robust support to developers and enhancing code quality through the implementation of automated Git hooks, CI tooling, and comprehensive testing measures
+- Automated builds leveraging Buildroot and the Android Open Source Project (AOSP) to generate reproducible machine images from versioned Git manifests
+- Enhanced development processes by actively supporting developers, implementing automated Git hooks, CI tooling, and testing measures for Ruby, Go, and JavaScript projects
 
 `November 2022 - March 2023`
 __Career Break, Canada__
